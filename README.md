@@ -1,4 +1,4 @@
-# Mame 2010 Libretro Binary Blobs Mirror repository
+# Mame 2010 Libretro Binary Blobs HTTP mirror repository
 
 The contents of this repository should be moved onto the
 [EVMFS](
